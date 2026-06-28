@@ -3,7 +3,7 @@ The mBusHMI Dev Board repository at GitHub
 <img src= "./pic/mBusHM_V2607_Top.png" width=450><img src= "./pic/mBusHM_V2607_Bottom.png" width=450> 
 
 ---
-<img src= "./pic/mBusHM.png" width=800>
+<img src= "./pic/mBusHMI.png" width=800>
 
 
 
