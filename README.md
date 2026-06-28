@@ -5,7 +5,7 @@ This project is derived from mBusC3mini V2605, mainly change JST 1mm connectors 
 change microUSB to TypeC, and add more features...<br>
 
 
-<img src= "./pic/mBusHM_V2607_Top.png" width=450><img src= "./pic/mBusHM_V2607_Bottom.png" width=450> 
+<img src= "./pic/mBusHM_V2607_Top.png" width=400><img src= "./pic/mBusHM_V2607_Bottom.png" width=400> 
 
 ---
 <img src= "./pic/mBusHMI.png" width=800>
