@@ -1,4 +1,4 @@
-##mBusHMI
+## mBusHMI
 
 The mBusHMI Dev Board repository at GitHub <br>
 This project is derived from mBusC3mini V2605, mainly change JST 1mm connectors to 2mm, add PICO 40p connector,<br>
