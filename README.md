@@ -10,7 +10,7 @@ change microUSB to TypeC, and add more features...<br>
 ---
 <img src= "./pic/mBusHMI.png" width=800>
 
-<img src= "./pic/3dCase_mBusHMI_2607.jpg>
+<img src= "./pic/3dCase_mBusHMI_2607.jpg">
 
 
 
